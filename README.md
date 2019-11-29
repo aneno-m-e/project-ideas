@@ -1,5 +1,10 @@
 # List of ideas
 
+## Free Wellington Walking Tours
+
+A website to advertise my tours.
+
+
 ## Sea critters sighting app
 
 An app for people to share the location of the marine creatures they spot (dolphins, whales, orcas, ...).
