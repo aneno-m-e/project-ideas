@@ -17,7 +17,7 @@ To be build with **React Native**.
 Pick a duration and the screen will slowly fade from one colour to another, providing a visual indication of the passage of time.
 
 
-## Stories behind Zellington street names
+## Stories behind Wellington street names
 
 A map with a pin for each street. Cliquing on it displays the story behind the street's name.
 
