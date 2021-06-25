@@ -47,3 +47,8 @@ A pinterest-like page of my favorite works of art. The visitor can narrow the se
 ## Kundalini yoga timer
 
 Select songs and how long each should play for so you can have a distraction free practice.
+
+## Tribute to House of Suns, by Alastair Reynold
+
+## Carbon footprint calculator
+
